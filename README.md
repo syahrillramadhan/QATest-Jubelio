@@ -10,7 +10,7 @@ cd /your/project/path
 ```
 2. Clone git repositoy
 ```
-$ git clone https://github.com/syahrillramadhan/Senbercode_Tugas_5
+$ git clone https://github.com/syahrillramadhan/QATest-Jubelio.git
 ```
 
 ## How to run project cypress
